@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440395CD-3F9B-42E3-A5AA-D77F2832E061}|Solution Items{440395CD-3F9B-42E3-A5AA-D77F2832E061}|C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{440395CD-3F9B-42E3-A5AA-D77F2832E061}|Solution Items{440395CD-3F9B-42E3-A5AA-D77F2832E061}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\mainchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:mainchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\messageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:messageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\tcpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:tcpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\mainchatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:mainchatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\mainchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:mainchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|c:\\users\\benja\\desktop\\client trivia\\trivia_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6C737E-EA4A-44E8-946C-3D266123B57F}|trivia_client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T23:33:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAHwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:13:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:27:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MessageProcessor.cs",
+              "RelativeDocumentMoniker": "MessageProcessor.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MessageProcessor.cs",
+              "RelativeToolTip": "MessageProcessor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:21:28.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TcpClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\TcpClientHandler.cs",
+              "RelativeDocumentMoniker": "TcpClientHandler.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\TcpClientHandler.cs",
+              "RelativeToolTip": "TcpClientHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:20:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainChatForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainChatForm.Designer.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.Designer.cs",
+              "RelativeToolTip": "MainChatForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:19:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.cs",
+              "RelativeDocumentMoniker": "MainChatForm.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.cs",
+              "RelativeToolTip": "MainChatForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:19:17.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:07:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:27:47.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainChatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.cs",
+              "RelativeDocumentMoniker": "MainChatForm.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\MainChatForm.cs [Design]",
+              "RelativeToolTip": "MainChatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:18:59.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\client trivia\\trivia_client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:02:43.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
